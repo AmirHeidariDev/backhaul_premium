@@ -1,5 +1,5 @@
 # backhaul_premium
-برای نصب و دسترسی دادن به فایل : 
+برای نصب فایل : 
 ```bash
 sudo wget https://raw.githubusercontent.com/AmirHeidariDev/backhaul_premium/main/backhaul.zip
 ```
