@@ -1,4 +1,12 @@
 # backhaul_premium
+
+
+آپدیت : 
+```bash
+apt update && apt upgrade -y
+
+```
+
 برای نصب فایل : 
 ```bash
 sudo wget https://raw.githubusercontent.com/AmirHeidariDev/backhaul_premium/main/backhaul.zip
